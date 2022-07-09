@@ -32,14 +32,14 @@ function duplicateEncode(word) {
 
 ## The courses i have done or studying now:
 
-- [Skillbox](https://skillbox.ru)
-- [VladilenSchool](https://vladilen.ru)
-- [RS School](https://rs.school/)
-- [Universe ITMO](https://de.ifmo.ru/certificates/be9dce42a4d1430a.pdf)
-- [Sololearn](https://www.sololearn.com/certificates/course/en/23030982/1024/landscape/png)
-- [English](https://drive.google.com/file/d/1B4vozcFyBDLrWN_dzKqiXX9cDspZGRyK/view)
+- [Skillbox](https://skillbox.ru) 🕤
+- [VladilenSchool](https://vladilen.ru) 🕤
+- [RS School](https://rs.school/) 🕤
+- [Universe ITMO](https://de.ifmo.ru/certificates/be9dce42a4d1430a.pdf) 💯✔️
+- [Sololearn](https://www.sololearn.com/certificates/course/en/23030982/1024/landscape/png) 💯✔️
+- [English](https://drive.google.com/file/d/1B4vozcFyBDLrWN_dzKqiXX9cDspZGRyK/view)💯✔️
 
 ## My projects & Codewars:
  [CodeWars](https://www.codewars.com/users/Raz3r444uk)  
- [Tetris](https://raz3r444uk.github.io/Tetris/)  
- [ToDoList](https://raz3r444uk.github.io/ToDoList/)  
+ :octocat: [Tetris](https://raz3r444uk.github.io/Tetris/)  
+ :octocat: [ToDoList](https://raz3r444uk.github.io/ToDoList/)  
