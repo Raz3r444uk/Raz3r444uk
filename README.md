@@ -30,8 +30,6 @@ I'm leaving my comfort zone, learning a new profession - Web programming. The ch
 
 ## Code example:
 
-Every day (almost) I try to study and practice on the platform for more accurate language learning and solving algorithmic dream problems. Here is one that I solved on Codewars:
-
 The goal of this exercise is to convert a string to a new string where each character in the new string is `"("` if that character appears only once in the original string, or `")"` if that character appears more than once in the original string. Ignore capitalization when determining if a character is a duplicate.
 
 _Result:_
@@ -60,7 +58,6 @@ function duplicateEncode(word) {
 
 ---
 
-## My projects
-
-You can see most of my work on GitHub. Here is one example:
+## My projects & Codewars:
+[Codewars](https://www.codewars.com/users/Raz3r444uk/badges/large)
 [GitHub](https://raz3r444uk.github.io/Tetris/)
