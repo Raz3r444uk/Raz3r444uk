@@ -13,9 +13,9 @@ I'm leaving my comfort zone, learning a new profession - Web programming. The ch
 <img src="https://raw.githubusercontent.com/webpack/media/3e52c178e6ad2428585a2cbf5d22d6dbe0697f0f/logo/icon.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" height="50">
 
 ## SoftSkills 📚:
-- Communication: <img src="https://user-images.githubusercontent.com/84793505/178105541-aaa6e342-9cd0-4cc2-ac38-aca218f1d640.png" width="100" height="100"> 
-- Сritical thinking: <img src="https://user-images.githubusercontent.com/84793505/178105544-44449ca5-4f48-47a8-b2a8-f31d2c24b15f.png" width="100" height="100"> 
-- Project manager: <img src="https://user-images.githubusercontent.com/84793505/178105547-ed6b586d-f378-4c68-9f68-c5ebd019d5cd.png" width="100" height="100"> 
+<img src="https://user-images.githubusercontent.com/84793505/178105541-aaa6e342-9cd0-4cc2-ac38-aca218f1d640.png" width="100" height="100" caption="Communication"> 
+<img src="https://user-images.githubusercontent.com/84793505/178105544-44449ca5-4f48-47a8-b2a8-f31d2c24b15f.png" width="100" height="100" caption="Сritical thinking"> 
+<img src="https://user-images.githubusercontent.com/84793505/178105547-ed6b586d-f378-4c68-9f68-c5ebd019d5cd.png" width="100" height="100" caption="Project manager"> 
 
 ## Code example💻:
 
