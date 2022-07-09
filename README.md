@@ -9,7 +9,8 @@ I'm leaving my comfort zone, learning a new profession - Web programming. The ch
 
 ## HardSkills:
 
-- HTML5, CSS3
+
+- ![HTML5](https://user-images.githubusercontent.com/84793505/178104427-3fbe82ea-87c0-4585-a7d1-ed21566028bd.png) HTML5,![CSS3](https://user-images.githubusercontent.com/84793505/178104449-6faf7c04-4d9e-438f-a118-097bd6e9eed6.png) CSS3 
 - JS (ES6)
 - React
 - Figma
@@ -17,7 +18,8 @@ I'm leaving my comfort zone, learning a new profession - Web programming. The ch
 - Webpack
 - Git, GitHub, GitLab
 - Adobe Photoshop
-- Adobe After Effects
+- Adobe After Effects!
+
 - Vegas Pro
 - MS Office
 - English B1
