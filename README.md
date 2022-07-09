@@ -1,5 +1,5 @@
-# Vladimir 
+# Vladimir Guskov
 
-Junior Front-end developer (studying)...
+## Junior Front-end developer (studying)...
 
 https://www.codewars.com/users/Raz3r444uk/badges/large
