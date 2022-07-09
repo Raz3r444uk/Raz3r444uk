@@ -37,19 +37,20 @@ function duplicateEncode(word) {
 
 ## The courses i have done or studying now:
 
-- [skillbox](https://skillbox.ru)
+- [Skillbox](https://skillbox.ru)
   - Study: `50% finished`
-- [vladilen](https://vladilen.ru)
+- [VladilenSchool](https://vladilen.ru)
   - Study: `40% finished`
-- [rs](https://rs.school/)
+- [RS School](https://rs.school/)
   - Study: `50% finished. Stage zero`
-- [universe itmo](https://de.ifmo.ru/certificates/be9dce42a4d1430a.pdf)
+- [Universe ITMO](https://de.ifmo.ru/certificates/be9dce42a4d1430a.pdf)
   - Study: Finished
-- [sololearn](https://www.sololearn.com/certificates/course/en/23030982/1024/landscape/png)
+- [Sololearn](https://www.sololearn.com/certificates/course/en/23030982/1024/landscape/png)
   - Study: Finished
-
+- [English](https://drive.google.com/file/d/1B4vozcFyBDLrWN_dzKqiXX9cDspZGRyK/view)
+  - Study: Finished
 ---
 
 ## My projects & Codewars:
- ![CodeWars](https://www.codewars.com/users/Raz3r444uk/badges/large)
+ ![CodeWars](https://www.codewars.com/users/Raz3r444uk/badges/large) [CodeWars](https://www.codewars.com/users/Raz3r444uk)  
  [GitHub](https://raz3r444uk.github.io/Tetris/)
