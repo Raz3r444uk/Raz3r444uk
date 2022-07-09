@@ -40,6 +40,6 @@ function duplicateEncode(word) {
 - [English](https://drive.google.com/file/d/1B4vozcFyBDLrWN_dzKqiXX9cDspZGRyK/view)
 
 ## My projects & Codewars:
- [CodeWars](https://www.codewars.com/users/Raz3r444uk)![CodeWars](https://www.codewars.com/users/Raz3r444uk/badges/large)  
+ [CodeWars](https://www.codewars.com/users/Raz3r444uk)
  [Tetris](https://raz3r444uk.github.io/Tetris/)  
  [ToDoList](https://raz3r444uk.github.io/ToDoList/) 
