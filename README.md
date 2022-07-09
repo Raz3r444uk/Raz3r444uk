@@ -9,7 +9,20 @@
 I'm leaving my comfort zone, learning a new profession - Web programming. The change in the type of activity is primarily caused by the desire to learn something more interesting and complex. Also, professional burnout was not an insignificant factor.Programming experience is just over a year. Every day I allocate from 2 to 4 hours a day for training (on weekends 4 or more). I have experience with HTML, CSS, Vanila-JS. I know what GIT is and how to use it. I have basic knowledge and little experience in JavaScript programming. In addition, I study both independently and at various sites, in order to improve my skills and knowledge. I received additional education (“Web programming”).
 
 ## HardSkills 🛠:
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Badge_js-strict.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" "HTML-5"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" "CSS-3"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Badge_js-strict.svg" width="50" height="50" "JS"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg" width="50" height="50" "GULP">
+
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg" width="50" height="50">
+
+
 
 - React!
 - Figma
