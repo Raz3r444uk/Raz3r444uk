@@ -1,50 +1,26 @@
 # Vladimir Guskov
 
----
-
 ## Junior Frontend Developer (Student)
 
----
-
 ## Contacts:
-
-- Phone: +7 927 796 86 18
-- E-mail: Raz3r444uk@mail.ru
 - Telegram: https://t.me/Raz3r444uk
-- My codewars: https://www.codewars.com/users/Raz3r444uk
-
----
-
 ## About me:
-
-I'm leaving my comfort zone, learning a new profession - Web programming. The change in the type of activity is primarily caused by the desire to learn something more interesting and complex. Also, professional burnout was not an insignificant factor.Programming experience is just over a year. Every day I allocate from 2 to 4 hours a day for training (on weekends 4 or more). I have experience with HTML, CSS, Vanila-JS. I know what GIT is and how to use it. I have basic knowledge and little experience in JavaScript programming. In addition, I study both independently and at various sites, in order to improve my skills and knowledge. I received additional education (“Web programming”.
-Interests and hobbies:
-
-- Reading science fiction, non-fiction literature;
-- Writing books;
-- Visiting the gym;
-- I play computer games;
-
-About myself:
-**An open, honest person. Practical, patient and diligent. Painstaking to the smallest detail. Protective, non-toxic.**
-
----
+I'm leaving my comfort zone, learning a new profession - Web programming. The change in the type of activity is primarily caused by the desire to learn something more interesting and complex. Also, professional burnout was not an insignificant factor.Programming experience is just over a year. Every day I allocate from 2 to 4 hours a day for training (on weekends 4 or more). I have experience with HTML, CSS, Vanila-JS. I know what GIT is and how to use it. I have basic knowledge and little experience in JavaScript programming. In addition, I study both independently and at various sites, in order to improve my skills and knowledge. I received additional education (“Web programming”).
 
 ## HardSkills:
 
 - HTML5, CSS3
-- JS (Basic)
+- JS (ES6)
+- React
+- Figma
+- Gulp
+- Webpack
 - Git, GitHub, GitLab
 - Adobe Photoshop
 - Adobe After Effects
 - Vegas Pro
 - MS Office
-- Figma
-- ES6
 - English B1
-- Gulp
-
----
 
 ## SoftSkills:
 
