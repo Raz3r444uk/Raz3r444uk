@@ -1,4 +1,4 @@
-# Vladimir Guskov aka RaZ3R
+# Vladimir Guskov
 
 ---
 
@@ -74,9 +74,9 @@ function duplicateEncode(word) {
 - [skillbox](https://skillbox.ru)
   - Study: `50% finished`
 - [vladilen](https://vladilen.ru)
-  - Study: `30% finished`
+  - Study: `40% finished`
 - [rs](https://rs.school/)
-  - Study: `Just Started`
+  - Study: `50% finished. Stage zero`
 - [universe itmo](https://de.ifmo.ru/certificates/be9dce42a4d1430a.pdf)
   - Study: Finished
 - [sololearn](https://www.sololearn.com/certificates/course/en/23030982/1024/landscape/png)
