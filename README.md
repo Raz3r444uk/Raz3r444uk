@@ -7,10 +7,9 @@
 ## About me:
 I'm leaving my comfort zone, learning a new profession - Web programming. The change in the type of activity is primarily caused by the desire to learn something more interesting and complex. Also, professional burnout was not an insignificant factor.Programming experience is just over a year. Every day I allocate from 2 to 4 hours a day for training (on weekends 4 or more). I have experience with HTML, CSS, Vanila-JS. I know what GIT is and how to use it. I have basic knowledge and little experience in JavaScript programming. In addition, I study both independently and at various sites, in order to improve my skills and knowledge. I received additional education (“Web programming”).
 
-## HardSkills:
+## HardSkills 🛠:
 
-
-- ![HTML5](https://user-images.githubusercontent.com/84793505/178104427-3fbe82ea-87c0-4585-a7d1-ed21566028bd.png) HTML5,![CSS3](https://user-images.githubusercontent.com/84793505/178104449-6faf7c04-4d9e-438f-a118-097bd6e9eed6.png) CSS3 
+- HTML5, CSS3
 - JS (ES6)
 - React
 - Figma
@@ -19,18 +18,17 @@ I'm leaving my comfort zone, learning a new profession - Web programming. The ch
 - Git, GitHub, GitLab
 - Adobe Photoshop
 - Adobe After Effects!
-
 - Vegas Pro
 - MS Office
 - English B1
 
-## SoftSkills:
+## SoftSkills 📚:
 
 - Communication
 - Сritical thinking
 - Project manager
 
-## Code example:
+## Code example💻:
 
 The goal of this exercise is to convert a string to a new string where each character in the new string is `"("` if that character appears only once in the original string, or `")"` if that character appears more than once in the original string. Ignore capitalization when determining if a character is a duplicate.
 
