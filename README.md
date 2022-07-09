@@ -54,5 +54,5 @@ function duplicateEncode(word) {
 
 ## My projects & Codewars:
  [CodeWars](https://www.codewars.com/users/Raz3r444uk) ![CodeWars](https://www.codewars.com/users/Raz3r444uk/badges/large)  
- [GitHub](https://raz3r444uk.github.io/Tetris/)  
- [GitHub](https://raz3r444uk.github.io/ToDoList/) ![todo](https://user-images.githubusercontent.com/84793505/178106302-a85fb2eb-313a-4f57-be5d-d5e75c8db493.png)
+ [Tetris](https://raz3r444uk.github.io/Tetris/)  
+ [ToDoList](https://raz3r444uk.github.io/ToDoList/) 
