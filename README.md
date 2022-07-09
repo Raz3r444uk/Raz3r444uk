@@ -48,9 +48,11 @@ function duplicateEncode(word) {
 - [Sololearn](https://www.sololearn.com/certificates/course/en/23030982/1024/landscape/png)
   - Study: Finished
 - [English](https://drive.google.com/file/d/1B4vozcFyBDLrWN_dzKqiXX9cDspZGRyK/view)
+
   - Study: Finished
 ---
 
 ## My projects & Codewars:
- ![CodeWars](https://www.codewars.com/users/Raz3r444uk/badges/large) [CodeWars](https://www.codewars.com/users/Raz3r444uk)  
- [GitHub](https://raz3r444uk.github.io/Tetris/)
+ [CodeWars](https://www.codewars.com/users/Raz3r444uk) ![CodeWars](https://www.codewars.com/users/Raz3r444uk/badges/large)  
+ [GitHub](https://raz3r444uk.github.io/Tetris/)  
+ [GitHub](https://raz3r444uk.github.io/ToDoList/) ![todo](https://user-images.githubusercontent.com/84793505/178106302-a85fb2eb-313a-4f57-be5d-d5e75c8db493.png)
