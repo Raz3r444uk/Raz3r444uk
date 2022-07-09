@@ -43,3 +43,4 @@ function duplicateEncode(word) {
  [CodeWars](https://www.codewars.com/users/Raz3r444uk)  
  :octocat: [Tetris](https://raz3r444uk.github.io/Tetris/)  
  :octocat: [ToDoList](https://raz3r444uk.github.io/ToDoList/)  
+ :octocat: [ColorDecoder](https://raz3r444uk.github.io/Colored/)  
