@@ -14,10 +14,8 @@ I'm leaving my comfort zone, learning a new profession - Web programming. The ch
 
 ## SoftSkills 📚:
 Communication:  
-<kbd><img src="https://user-images.githubusercontent.com/84793505/178105541-aaa6e342-9cd0-4cc2-ac38-aca218f1d640.png" width="100" height="100" caption="Communication"></kbd>  
-Сritical thinking:  
-<kbd><img src="https://user-images.githubusercontent.com/84793505/178105544-44449ca5-4f48-47a8-b2a8-f31d2c24b15f.png" width="100" height="100" caption="Сritical thinking"></kbd>  
-Project manager:  
+<kbd><img src="https://user-images.githubusercontent.com/84793505/178105541-aaa6e342-9cd0-4cc2-ac38-aca218f1d640.png" width="100" height="100" caption="Communication"></kbd>Сritical thinking:  
+<kbd><img src="https://user-images.githubusercontent.com/84793505/178105544-44449ca5-4f48-47a8-b2a8-f31d2c24b15f.png" width="100" height="100" caption="Сritical thinking"></kbd>Project manager:  
 <kbd><img src="https://user-images.githubusercontent.com/84793505/178105547-ed6b586d-f378-4c68-9f68-c5ebd019d5cd.png" width="100" height="100" caption="Project manager"></kbd>
 
 ## Code example💻:
