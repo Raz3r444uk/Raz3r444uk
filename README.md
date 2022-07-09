@@ -3,7 +3,7 @@
 ## Junior Frontend Developer (Student)
 
 ## Contacts:
-![Telegram](https://user-images.githubusercontent.com/85865879/156126650-579774b5-b08b-4b44-a638-72ab776ccce9.png) [Telegram]:https://t.me/Raz3r444uk 
+![Telegram](https://user-images.githubusercontent.com/85865879/156126650-579774b5-b08b-4b44-a638-72ab776ccce9.png =20x20) [Telegram]:https://t.me/Raz3r444uk 
 ## About me:
 I'm leaving my comfort zone, learning a new profession - Web programming. The change in the type of activity is primarily caused by the desire to learn something more interesting and complex. Also, professional burnout was not an insignificant factor.Programming experience is just over a year. Every day I allocate from 2 to 4 hours a day for training (on weekends 4 or more). I have experience with HTML, CSS, Vanila-JS. I know what GIT is and how to use it. I have basic knowledge and little experience in JavaScript programming. In addition, I study both independently and at various sites, in order to improve my skills and knowledge. I received additional education (“Web programming”).
 
