@@ -10,7 +10,7 @@ I'm leaving my comfort zone, learning a new profession - Web programming. The ch
 
 ## HardSkills 🛠:
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Badge_js-strict.svg" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Gulp.js_Logo.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="50" height="50">
-<img src="https://raw.githubusercontent.com/webpack/media/3e52c178e6ad2428585a2cbf5d22d6dbe0697f0f/logo/icon.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" height="50">
+<img src="https://raw.githubusercontent.com/webpack/media/3e52c178e6ad2428585a2cbf5d22d6dbe0697f0f/logo/icon.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="50" height="50"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50"> 
 
 ## SoftSkills 📚:
 - <kbd><img src="https://user-images.githubusercontent.com/84793505/178105541-aaa6e342-9cd0-4cc2-ac38-aca218f1d640.png" width="100" height="100" caption="Communication"></kbd>  Communication
